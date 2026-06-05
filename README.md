@@ -1,0 +1,1 @@
+porfavor descargue el folder completo y colquelos en un mismo lugar o en su defecto en su mismo folder luego ejecute el index para poder visualizar el programa y sus  herramientaa
